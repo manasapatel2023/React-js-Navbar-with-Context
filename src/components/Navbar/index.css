@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.nav-dark {
+  background-color: #000000;
+  display: flex;
+}
+
+.light-theme {
+  background-color: #ffffff;
+  display: flex;
+}
